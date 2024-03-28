@@ -1,4 +1,5 @@
 #!/bin/bash
 
 
-date > /temp/report
+date
+cal
