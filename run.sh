@@ -2,3 +2,5 @@
 
 
 date
+cal
+pwd
