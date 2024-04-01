@@ -18,7 +18,7 @@ ___
 ### MÉTODO
 > **GET**
 
-### CÓDIGOS DE ESTADO
+## CÓDIGOS DE ESTADO
 
 > | Código | Descripción |
 > | ------ | ----------- |
