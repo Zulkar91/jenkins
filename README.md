@@ -18,7 +18,11 @@ ___
 ### MÉTODO
 > **GET**
 
+<<<<<<< HEAD
 ## CÓDIGOS DE ESTADO
+=======
+### CÓDIGOS DE ESTADO
+>>>>>>> 84d782aece48aca7cf45e0a86047bb2b2c15415c
 
 > | Código | Descripción |
 > | ------ | ----------- |
